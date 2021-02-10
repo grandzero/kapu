@@ -3,6 +3,7 @@ package com.kapu.kapu.model;
 //import javax.persistence.Entity;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 @Entity
 @Table(name="tapular")
